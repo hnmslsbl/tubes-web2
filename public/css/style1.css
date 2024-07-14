@@ -1,0 +1,24 @@
+body{
+    background: rgb(223,183,180);
+    background: linear-gradient(71deg, rgba(223,183,180,1) 0%, rgba(43,21,74,1) 79%);
+}
+h1{
+    color: #FBE5D8;
+    font-family: Poppins;
+}
+h2{
+    color: #FBE5D8;
+    font-family: Poppins;
+}
+h3{
+    color: #FBE5D8;
+    font-family: Poppins;
+}
+h5{
+    color: #FBE5D8;
+    font-family: Poppins;
+}
+p{
+    color: #FBE5D8;
+    font-family: Poppins;
+}

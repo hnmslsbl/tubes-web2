@@ -1,0 +1,12 @@
+body{
+    background-color: rgba(251, 229, 216, 1);
+}
+h1{
+    color: rgba(101, 74, 108, 1);
+    font-family: Poppins;
+}
+
+/* Navbar */
+.navbar-rounded-bottom {
+    border-radius: 0 0 40px 40px;
+}
